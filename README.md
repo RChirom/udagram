@@ -1,8 +1,8 @@
 # Udagram Image Filtering Microservice
 --------------------------------------------------------------------------------------------------------
 # EBS URL : http://udagram-dev2222.us-east-1.elasticbeanstalk.com/
-[Test image] (http://udagram-dev2222.us-east-1.elasticbeanstalk.com/filteredimage?image_url=http://www.pec.edu/images/pecemblem.png)
-[Test error] (http://udagram-dev2222.us-east-1.elasticbeanstalk.com/filteredimage?)
+-> [Test image](http://udagram-dev2222.us-east-1.elasticbeanstalk.com/filteredimage?image_url=http://www.pec.edu/images/pecemblem.png)
+-> [Test error](http://udagram-dev2222.us-east-1.elasticbeanstalk.com/filteredimage?)
 # Github Repo : https://github.com/RChirom/udagram 
 --------------------------------------------------------------------------------------------------------
 
