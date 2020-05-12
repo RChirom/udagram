@@ -1,6 +1,6 @@
 # Udagram Image Filtering Microservice
 --------------------------------------------------------------------------------------------------------
-# EBS URL : http://udacity2-dev.us-east-1.elasticbeanstalk.com/ 
+# EBS URL : http://udagram-dev2222.us-east-1.elasticbeanstalk.com/
 # Github Repo : https://github.com/RChirom/udagram 
 --------------------------------------------------------------------------------------------------------
 
